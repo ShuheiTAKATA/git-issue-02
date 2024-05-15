@@ -18,4 +18,9 @@ class Class01
 	{
 		return $x - $y;
 	}
+
+	public functin multiply(int $x, int $y): int
+	{
+		return $x * $y;
+	}
 }
